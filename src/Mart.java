@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Mart {
 	
     Item[] list;
-    int itemSize = 4;
+    int itemSize = 5;
     ArrayList cart;
     
     
